@@ -39,7 +39,7 @@ Executives lack instruments to _extract_ and _evaluate_ hidden strategies embedd
 **Outcomes:**
 - Transparency on _what strategy the firm actually runs_.  
 - Evidence-based alignment to business goals.  
-- Foundation for a prototype AI assistant that narrates strategy rationales from data. :contentReference[oaicite:1]{index=1}
+- Foundation for a prototype AI assistant that narrates strategy rationales from data. 
 
 ---
 
@@ -97,7 +97,7 @@ Target stacks: object storage (Azure Blob/S3), Parquet/Delta for curated layers,
 
 ---
 
-## 7) KPIs & Evaluation
+## 7) KPIs & Evaluation (examples)
 - **Service:** OTIF, ETA-MAE/90p, backorder rate.  
 - **Cost:** cost-to-serve per SKU/customer, freight per ton-km, premium freight share.  
 - **Flow:** lead-time by SCOR stage, CoV of lead-time, dock-to-stock.  
@@ -121,13 +121,13 @@ Target stacks: object storage (Azure Blob/S3), Parquet/Delta for curated layers,
 2. **Reference data model** and ingestion templates.  
 3. **Prototype notebooks** for pattern mining and narrative generation.  
 4. **Strategy dashboard** (scenarios, KPIs, risk view).  
-5. **Partner report** with taxonomy of strategy patterns and next-phase blueprint. :contentReference[oaicite:2]{index=2}
+5. **Partner report** with taxonomy of strategy patterns and next-phase blueprint. 
 
 ---
 
 ## 10) Governance & Partners
 - **Project owner:** Anastasiia Desiateryk  
-- **Research partners:** BEG Analytics (Lars Baacke), BFH (Prof. Dr. Jörg Grimm; Moritz Maier). :contentReference[oaicite:3]{index=3}  
+- **Research partners:** BEG Analytics (Lars Baacke), BFH (Prof. Dr. Jörg Grimm; Moritz Maier).
 - **Advisory cadence:** bi-weekly research stand-up; monthly steering.
 
 ---
@@ -151,12 +151,6 @@ Target stacks: object storage (Azure Blob/S3), Parquet/Delta for curated layers,
 - **Strategy mining:** Data-driven extraction of persistent decision patterns that function as de-facto strategy.  
 - **Strategy narrative:** Plain-language summary explaining what the pattern does, where, and with which trade-offs.  
 - **SCOR stages:** Plan, Source, Make, Deliver (used for stage-wise lead-time).
-
----
-
-## 14) Project Metadata
-- **Application title:** _SC Strategy & AI_ (Innosuisse pre-study). :contentReference[oaicite:4]{index=4}  
-- **Innovation Council subgroup:** ICT; **Innovation Cluster:** Data Sciences. :contentReference[oaicite:5]{index=5}
 
 ---
 
