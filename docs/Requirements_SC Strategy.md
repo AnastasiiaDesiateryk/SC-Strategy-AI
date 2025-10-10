@@ -47,5 +47,5 @@ Functional requirements derive directly from the Innosuisse pre-study scope — 
 
 ---
 
-📘 **Summary:**  
+ **Summary:**  
 The functional design ensures controlled ingestion, explainable AI pattern extraction, quantitative evaluation, and transparent communication of implicit strategies.
