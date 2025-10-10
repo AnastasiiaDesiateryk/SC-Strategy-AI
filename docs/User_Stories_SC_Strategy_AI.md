@@ -98,6 +98,6 @@ Each story aligns with the corresponding research component described in the Inn
 | US-5 | Recommend optimised strategies | Generation of alternative “to-be” scenarios. |
 | US-6 | Prototype Conceptualisation | Executive reporting and presentation layer. |
 
----
+
 
 
