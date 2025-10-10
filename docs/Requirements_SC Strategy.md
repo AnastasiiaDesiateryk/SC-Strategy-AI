@@ -28,7 +28,7 @@ Functional requirements derive directly from the Innosuisse pre-study scope — 
 | **Architecture** | Modular system design separating data, ML, and presentation layers. Each module independently deployable and testable. |
 | **Reproducibility** | All analytical pipelines are logged, version-controlled, and reproducible across environments (DEV → TEST → QUAL). |
 | **Interpretability** | Every AI-generated insight must include an explanation layer — model reasoning, key features, and traceable evidence from the dataset. |
-| **Security & Compliance** | All processing must comply with UBS Information Security Policy, Swiss FADP and EU GDPR. Data anonymisation applied pre-processing; encryption enforced in transit and at rest. |
+| **Security & Compliance** | All processing must comply with Information Security Policy, Swiss FADP and EU GDPR. Data anonymisation applied pre-processing; encryption enforced in transit and at rest. |
 | **Performance** | Batch analysis runtime ≤ 5 hours for datasets up to 10 million records. Dashboard latency ≤ 3 seconds per filtered query. |
 | **Integration & Extensibility** | Interfaces designed for downstream integration with BI systems (Power BI, Superset, Tableau) and REST-based API endpoints. |
 
