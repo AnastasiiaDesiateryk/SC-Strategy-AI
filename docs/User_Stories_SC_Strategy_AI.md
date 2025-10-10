@@ -101,6 +101,3 @@ Each story aligns with the corresponding research component described in the Inn
 ---
 
 
-**Summary:**  
-These user stories collectively describe the end-to-end functional workflow for the *SC Strategy & AI* pre-study.  
-They ensure methodological consistency with the Innosuisse research objectives and compliance with UBS engineering, governance, and reporting standards.
