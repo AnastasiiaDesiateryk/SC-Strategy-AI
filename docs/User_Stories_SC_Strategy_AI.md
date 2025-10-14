@@ -82,7 +82,7 @@ Each story aligns with the corresponding research component described in the Inn
 - Downloadable PDF report includes executive summary, KPI table, and recommendations.  
 - Charts embedded or linked to dashboard views.  
 - Report footer includes dataset ID, model version, and timestamp.  
-- Exports comply with UBS Records Retention & Confidentiality Policy.  
+  
 **Traceability:** Matches *Prototype Conceptualisation* — interface and reporting layer.
 
 ---
