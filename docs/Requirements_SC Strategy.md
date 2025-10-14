@@ -17,7 +17,7 @@ Functional requirements derive directly from the Innosuisse pre-study scope — 
 | **FR-4** | **Evaluation Model** | Quantitative scoring of discovered strategies along key dimensions: alignment, cost efficiency, resilience/adaptability, sustainability/compliance, and competitiveness. |
 | **FR-5** | **Visualization Dashboard** | Interactive visual layer presenting detected patterns and evaluation metrics. Supports drill-down by SCOR stage and domain; enables cross-comparison of strategic dimensions. |
 | **FR-6** | **Scenario Recommendation Engine** | Generates optimisation scenarios (e.g., supplier re-allocation, mode shift, inventory policy adjustment) and projects expected KPI impact. |
-| **FR-7** | **Reporting & Export Module** | Produces PDF and CSV deliverables for management review, ensuring compliance with UBS data-governance and record-keeping standards. |
+| **FR-7** | **Reporting & Export Module** | Produces PDF and CSV deliverables for management review. |
 
 ---
 
