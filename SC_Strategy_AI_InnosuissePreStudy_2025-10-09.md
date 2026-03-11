@@ -66,7 +66,7 @@ Executives lack instruments to _extract_ and _evaluate_ hidden strategies embedd
 - Translate quantitative behaviours into human-readable **strategy narratives**.
 
 ### 3.3 Strategy Evaluation / Recommendation
-- Compare discovered strategies with objectives/benchmarks (cost-to-serve, OTIF, ETA accuracy, CoV of lead-time, DIO/DSO, CO₂/ton-km).  
+- Compare discovered strategies with objectives/benchmarks (cost-to-serve, OTIF, ETA accuracy, CoV of lead-time, DIO/DSO, CO₂/ton-km) .  
 - Generate improvement scenarios (what-ifs) and dashboards for decision-making.
 
 ---
