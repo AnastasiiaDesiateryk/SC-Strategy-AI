@@ -10,7 +10,7 @@ _A Strategy-Mining Framework for Supply Chains_
 
 **Author:** Anastasiia Desiateryk  
 **Date:** 2025-10-09  
-**Version:** 1.0
+**Version:** 1.0.
 
 ---
 
